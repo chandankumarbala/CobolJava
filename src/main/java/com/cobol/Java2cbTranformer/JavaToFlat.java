@@ -54,6 +54,10 @@ public class JavaToFlat {
 			
 			//https://sourceforge.net/p/jrecord/discussion/678634/thread/176dcea6/
 			//http://www.3480-3590-data-conversion.com/article-reading-cobol-layouts-2.html
+			//http://stackoverflow.com/questions/34093560/how-to-read-a-date-in-java-from-a-comp-3-field-in-cobol
+			//https://coderanch.com/t/579671/java/Writing-Pic-Comp-mainframe-Java
+			//https://coderanch.com/t/668878/java/read-mainframe-comp-fields-java
+			//https://www.google.co.in/search?q=iterate+through+map&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=qMWpWO-6O4PT8gf3hqvgCw#q=jrecord+comp-3+fields
 			
 			writer.write(saleRecord);
 			
